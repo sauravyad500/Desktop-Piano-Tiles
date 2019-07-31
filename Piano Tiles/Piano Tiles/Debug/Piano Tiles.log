@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\uplc\documents\visual studio 2017\projects\piano tiles\piano tiles\source.cpp(296): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\corecrt_wstdlib.h(69): note: see declaration of '_itow'
+  Piano Tiles.vcxproj -> C:\Users\UPLC\Documents\Visual Studio 2017\Projects\Piano Tiles\Debug\Piano Tiles.exe
+  Piano Tiles.vcxproj -> C:\Users\UPLC\Documents\Visual Studio 2017\Projects\Piano Tiles\Debug\Piano Tiles.pdb (Partial PDB)
